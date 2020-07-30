@@ -1,2 +1,2 @@
 # Biocyto_webcrawler
-pipieline for crisper designing
+Pipeline for crisper designing
