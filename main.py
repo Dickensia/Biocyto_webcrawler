@@ -14,10 +14,6 @@ def main(root):
     result2 = web2.web2(root)
     result = web3.web3(result2,root)
     return result
-    
-
-
-
 
 if __name__ == '__main__':
     main(root)
